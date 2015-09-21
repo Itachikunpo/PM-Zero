@@ -34,7 +34,8 @@ int main(int argc, char const *argv[])
 	return 0;
 }
 
-int base(l, base) {
+int base(l, base) 
+{
     int b1 = base; // find base L levels down
     while (l > 0) 
     {
