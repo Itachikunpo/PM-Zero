@@ -28,7 +28,8 @@ int main(int argc, char const *argv[])
 	int PC = 0;
 	int IR = 0;
 
-
+	//PICS OR GTFO	
+	
 
 
 	return 0;
